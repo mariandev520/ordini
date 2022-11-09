@@ -1,6 +1,6 @@
 @import "../../styles/variables.scss";
 
-@media (max-width: $breakpoint - 1) {
+@media (max-width: $breakpoint ) {
   .tareasContainer {
     overflow-y: scroll;
     background-color: $violeta_claro;

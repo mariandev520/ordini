@@ -11,12 +11,12 @@
     h2 {
       text-align: center;
       margin-top: 20px;
-      color: rgb(162, 37, 37);
+      color: rgb(25, 20, 170);
       font-size: 30px;
     }
 
     .form {
-      background-color: rgb(74, 70, 70);
+      background-color: rgb(67, 96, 96);
       width: 70vw;
       max-width: 450px;
       height: 330px;
@@ -25,7 +25,7 @@
       h3 {
         text-align: center;
         padding-top: 20px;
-        color: rgb(63, 0, 190);
+        color: rgb(125, 122, 130);
         font-size: 20px;
       }
 
@@ -37,7 +37,7 @@
         margin-top: 10px;
 
         .tituloInput {
-          background-color: rgba(15, 19, 93, 0.367);
+          background-color: rgba(51, 53, 82, 0.367);
           border: none;
           border-radius: 5px;
           width: 80%;
@@ -49,7 +49,7 @@
 
           &::placeholder {
             font-size: 16px;
-            color: $marron;
+            color: white;
             font-weight: 600;
             opacity: 0.6;
             margin-top: 10px;
@@ -186,7 +186,7 @@
           height: 35px;
           height: 30px;
           background-color: white;
-          color: rgb(31, 34, 40);
+          color: rgb(45, 54, 71);
           text-align: center;
           font-weight: bold;
           display: flex;
