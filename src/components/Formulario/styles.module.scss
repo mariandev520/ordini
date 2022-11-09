@@ -1,7 +1,14 @@
 @import "../../styles/variables.scss";
 
+
+
 @media (max-width: $breakpoint  ) {
+
+ 
+ 
   .formContainer {
+
+  
     height: 100vh;
     display: flex;
     flex-direction: column;

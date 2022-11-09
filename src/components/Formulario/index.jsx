@@ -12,6 +12,7 @@ const Formulario = ({onSubmit, onChange, tarea}) => {
   const {titulo, descripcion} = tarea;
 
   return (
+    
     <div className={formContainer}>
       <h2>pedidos</h2>
       <form className={form} onSubmit={e => onSubmit (e)}>

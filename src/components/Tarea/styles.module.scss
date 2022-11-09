@@ -1,7 +1,10 @@
 @import "../../styles/variables.scss";
 
 .tareaCard {
-    background-color: white;
+
+  background-image: url('/vela.jpeg');
+  background-position:  center;
+    background-color: $amarillo;
     border-radius: 5px;
 
     .tituloContainer {
@@ -25,7 +28,8 @@
     }
 
     .descripcionCard {
-      color: $marron;
+      
+      color: white;
       padding-right: 15px;
       padding-left: 15px;
       font-weight: 700;
